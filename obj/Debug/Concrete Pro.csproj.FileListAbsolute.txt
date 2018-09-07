@@ -7,3 +7,13 @@ C:\Users\Nico\Desktop\C#Project\Concrete Pro\Concrete Pro\obj\Debug\Concrete_Pro
 C:\Users\Nico\Desktop\C#Project\Concrete Pro\Concrete Pro\obj\Debug\Concrete Pro.csproj.GenerateResource.Cache
 C:\Users\Nico\Desktop\C#Project\Concrete Pro\Concrete Pro\obj\Debug\Concrete Pro.exe
 C:\Users\Nico\Desktop\C#Project\Concrete Pro\Concrete Pro\obj\Debug\Concrete Pro.pdb
+C:\Users\ngiul\Documents\GitHub\ConcretePro\bin\Debug\Concrete Pro.exe.config
+C:\Users\ngiul\Documents\GitHub\ConcretePro\bin\Debug\Concrete Pro.exe
+C:\Users\ngiul\Documents\GitHub\ConcretePro\bin\Debug\Concrete Pro.pdb
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Debug\Concrete Pro.csprojAssemblyReference.cache
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Debug\Concrete_Pro.frmConcrete.resources
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Debug\Concrete_Pro.Properties.Resources.resources
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Debug\Concrete Pro.csproj.GenerateResource.cache
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Debug\Concrete Pro.csproj.CoreCompileInputs.cache
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Debug\Concrete Pro.exe
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Debug\Concrete Pro.pdb
