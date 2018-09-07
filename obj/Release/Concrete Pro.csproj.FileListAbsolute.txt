@@ -10,3 +10,13 @@ C:\Users\Nico\Desktop\C#Project\Concrete Pro\Concrete Pro\obj\Release\Concrete P
 C:\Users\Nico\Documents\School\C#Project\Concrete Pro\Concrete Pro\bin\Release\Concrete Pro.exe.config
 C:\Users\Nico\Documents\School\C#Project\Concrete Pro\Concrete Pro\obj\Release\Concrete Pro.exe
 C:\Users\Nico\Documents\School\C#Project\Concrete Pro\Concrete Pro\obj\Release\Concrete Pro.pdb
+C:\Users\ngiul\Documents\GitHub\ConcretePro\bin\Release\Concrete Pro.exe.config
+C:\Users\ngiul\Documents\GitHub\ConcretePro\bin\Release\Concrete Pro.exe
+C:\Users\ngiul\Documents\GitHub\ConcretePro\bin\Release\Concrete Pro.pdb
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Release\Concrete Pro.csprojAssemblyReference.cache
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Release\Concrete_Pro.frmConcrete.resources
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Release\Concrete_Pro.Properties.Resources.resources
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Release\Concrete Pro.csproj.GenerateResource.cache
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Release\Concrete Pro.csproj.CoreCompileInputs.cache
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Release\Concrete Pro.exe
+C:\Users\ngiul\Documents\GitHub\ConcretePro\obj\Release\Concrete Pro.pdb
